@@ -1,0 +1,8 @@
+.pio
+.vscode
+.idea
+*.o
+*.a
+*.bin
+*.elf
+*.log

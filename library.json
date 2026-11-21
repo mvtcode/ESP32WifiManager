@@ -1,0 +1,18 @@
+{
+  "name": "ESP32WifiManager",
+  "version": "1.0.0",
+  "description": "Asynchronous, non-blocking WiFi manager for ESP32 with background scanning, auto-reconnect and telemetry support.",
+  "keywords": "esp32, wifi, async, non-blocking, scanner, freertos",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mvtcode/ESP32WifiManager.git"
+  },
+  "authors": [
+    {
+      "name": "mvtcode"
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
